@@ -1,10 +1,26 @@
 ---
 layout: page
-title: Hi, I'm Margo
-subtitle: Skier / Fermented Food Fan / Writer / Marketing Specialist / Community Manager = Multipotentialite
+title: Wilderlife - Girls who love the mountains
+subtitle: Good girls go to heaven, awesome girls go to the mountains!
 use-site-title: true
 ---
+<div class="body">
+<p>Summer is for hiking, winter is for skiing.</p>
+  <p>This blog will tell you everything you need to know about mountains from beginner to mid-experienced mountain lover. We will cover routes, basic safety measures, equipment, events and stories.</p>
+  <p>We will not cover rock climibing, or trail bazing, because we believe that you should do a proper course to do that - no internet blog post will ever teach you the skills need there.</p>
+  <p>We also want this to be a community run experience, so if you have stories you'd liket to share or topic you want us to cover, please drop us an email.</p>
 
+  <a href="{{ post.url | relative_url }}">
+    <h3>START HIKING</h3>
+  </a>
+
+  <a href="{{ post.url | relative_url }}">
+      <h3>START SKIING</h3>
+    </a>
+</div>
+
+
+<h2>Latest Blogs</h2>
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
