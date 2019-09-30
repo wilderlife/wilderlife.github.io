@@ -21,7 +21,7 @@ description: A life of a multipotentisalite
 # List of links in the navigation bar
 #navbar-links:
  About Me: "aboutme"
-Resources:
+#Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    
   #Author's home: "http://deanattali.com"
