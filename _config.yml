@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: WilderLife
+title: Test WilderLife
 
 # Short description of your site
 description: A life of a multipotentisalite
@@ -11,18 +11,18 @@ description: A life of a multipotentisalite
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://example.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #ß
 
 # List of links in the navigation bar
 #navbar-links:
- About Me: "aboutme"
-#Resources:
-   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+About Me: "aboutme"
+# Resources:
+#   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    
   #Author's home: "http://deanattali.com"
 
