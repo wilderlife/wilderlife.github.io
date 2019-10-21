@@ -38,10 +38,10 @@ baseurl: ""
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#374785"
+navbar-col: "#F76C6C"
 navbar-text-col: "#FFFFF"
 navbar-children-col: "#F5F5F5"
-page-col: "#F76C6C"
+page-col: "#FFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
