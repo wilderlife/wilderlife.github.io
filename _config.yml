@@ -19,10 +19,10 @@ baseurl: ""
 # --- Navigation bar options --- #ß
 
 # List of links in the navigation bar
-#navbar-links:
-#Let's Chat: "aboutme"
-# Resources:
-#   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+navbar-links:
+Let's Chat: "aboutme"
+Resources:
+   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    
   #Author's home: "http://deanattali.com"
 
