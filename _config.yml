@@ -11,7 +11,7 @@ description: Marketing professional passionate about tech and mountains.
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://example.com"
+#url: "https://example.com"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -51,7 +51,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "img/MountainsLover_Margo_Gantner.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
