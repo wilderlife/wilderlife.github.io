@@ -7,7 +7,7 @@ use-site-title: true
 
 My name is <b>Margo</b>. I get really passionate about experiential marketing, building communities and mountains. 
 
-!(Me doing a tree pose on the tree)["img/MargoGantner_Marketing_Specialist.png"]
+![Me doing a tree pose on the tree](img/MargoGantner_Marketing_Specialist.png)
 
 
 
