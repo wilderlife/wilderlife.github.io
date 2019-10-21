@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Test WilderLife
+title: Margo Gantner
 
 # Short description of your site
-description: A life of a multipotentisalite
+description: Marketing professional passionate about tech and mountains.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 #navbar-links:
-About Me: "aboutme"
+Let's Chat: "aboutme"
 # Resources:
 #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    
@@ -32,7 +32,7 @@ About Me: "aboutme"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/avatar-icon.png"
+#title-img: "/img/avatar-icon.png"
 
 # --- Background colour/image options --- #
 
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "wilderlife.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "margogantner.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
