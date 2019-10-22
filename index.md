@@ -7,10 +7,11 @@ use-site-title: true
 
 My name is <b>Margo</b>. I get really passionate about experiential marketing 🚀, building communities 🙋‍ and spending time in the mountains 🏔 . 
 
-I've recently moved from London to Vancouver to explore life on the other side of the globe. 
+I've recently moved from London to Vancouver to explore the life on the other side of the globe. 
 
-Blog | Resume | Videos
+Blog | [Resume](https://drive.google.com/file/d/1fkdy0EHJhC782dKWKkTW5i5EnED5cbZk/view?usp=sharing target="_blank") | Videos
 
+Here's me doing a tree pose on a tree.
 ![Here's me doing a tree pose on a tree](img/MargoGantner_Marketing_Specialist.png)
 
 
