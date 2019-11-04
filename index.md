@@ -16,7 +16,7 @@ Here's me doing a tree pose on a tree.
 
 
 
-<!--<h2>Latest Blogs</h2>
+<h2>Latest Blogs</h2>
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
