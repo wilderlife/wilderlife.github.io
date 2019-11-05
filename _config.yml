@@ -20,8 +20,8 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-Let's Chat: "aboutme"
-Resources:
+  Let's Chat: "aboutme"
+  Resources:
    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    
   #Author's home: "http://deanattali.com"
@@ -195,6 +195,9 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+
+#Display blog posts on a different page than home
+paginate_path: "/blog/page:num/"
 
 # prose.io config
 prose:
