@@ -2,10 +2,12 @@
 layout: page
 subtitle: My videos
 ---
-<h4>Today, video is one of the most powerful tools in marketing. According to Wyzowl's study over two-thirds (68%) of today's consumers say a short video would be their preferred way to learn about new products or services.[source](https://www.wyzowl.com/video-marketing-statistics-2019/)</h4>
+Today, video is one of the most powerful tools in marketing. According to Wyzowl's study over two-thirds (68%) of today's consumers say a short video would be their preferred way to learn about new products or services.)[source](https://www.wyzowl.com/video-marketing-statistics-2019/)
+
 <h4>Here are some videos I've filmed, scripted and edited myself over the past couple of years:</h4>
 
 <h4>Highlight videos and promotional material</h4>
+
 [![DockerCon Barcelona 2018 - Highlights](https://i.ibb.co/kD6PCJL/https-i-ytimg-com-vi-ZSg-BCLf-Ml2k-maxresdefault.jpg)](https://www.youtube.com/watch?v=ZSgBCLfMl2k "DockerCon Barcelona 2018")
 
 [![DockerCon Barcelona 2018 - How to convince your boss to send you to a conference like DockerCon](https://i.ibb.co/RPjhttK/https-i-ytimg-com-vi-Qb-ZB9suus-RQ-maxresdefault.jpg)](https://www.youtube.com/watch?v=QbZB9suusRQ "DockerCon Barcelona 2018 - How to convince your boss to send you to a conference like DockerCon")
