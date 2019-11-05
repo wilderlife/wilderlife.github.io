@@ -3,7 +3,9 @@ layout: page
 subtitle: My videos
 ---
 <h4>Today, video is one of the most powerful tools in marketing. According to Wyzowl's study over two-thirds (68%) of today's consumers say a short video would be their preferred way to learn about new products or services (<a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">source</a><)/h4>
+
 <h4>Here are some videos I've filmed, scripted and edited myself over the past couple of years:</h4>
+
 
 [![DockerCon Barcelona 2018 - Highlights](https://i.ibb.co/kD6PCJL/https-i-ytimg-com-vi-ZSg-BCLf-Ml2k-maxresdefault.jpg)](https://www.youtube.com/watch?v=ZSgBCLfMl2k "DockerCon Barcelona 2018")
 
@@ -31,5 +33,5 @@ subtitle: My videos
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/8CAFRDokyQkhi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitten-8CAFRDokyQkhi">via GIPHY</a></p>
 
-<h4>You scrolled till the end! Well done you! I hope you actually clicked on one of the videos  If you did and want to share you <a href="mailto:hello@margogantner.com">email me here</a>. If you didn't, scroll back up.</h4>
+<h4>You scrolled till the end! Well done you! I hope you actually clicked on one of the videos 🕵️‍♀️ If you did and want to have a chat <a href="mailto:hello@margogantner.com">email me here</a>. If you didn't, scroll back up.</h4>
 
