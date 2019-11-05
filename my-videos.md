@@ -2,7 +2,7 @@
 layout: page
 subtitle: My videos
 ---
-<h4>Today, video is one of the most powerful tools in marketing. According to Wyzowl's study over two-thirds (68%) of today's consumers say a short video would be their preferred way to learn about new products or services (<a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">source</a><)/h4>
+<h4>Today, video is one of the most powerful tools in marketing. According to Wyzowl's study over two-thirds (68%) of today's consumers say a short video would be their preferred way to learn about new products or services (<a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">source</a>)</h4>
 
 <h4>Here are some videos I've filmed, scripted and edited myself over the past couple of years:</h4>
 
