@@ -20,13 +20,13 @@ After reading a lot of articles and Facebook posts about how hard it is to find 
 
 
 Here are some groups you can join now:
-- [Vancouver Rentals & Roommates](https://www.facebook.com/groups/208133753011634/?fref=nf)
-- [For Rent Vancouver](https://www.facebook.com/groups/203832913156085/)
-- [Vancouver - Apartments for rent | Apartments Houses Rooms](https://www.facebook.com/groups/I7984/)
-- [Vancouver - Rooms for rent, roommates & sublets](https://www.facebook.com/groups/rooms.for.rent.vancouver.roomi/)
+- [Vancouver Rentals & Roommates](https://www.facebook.com/groups/208133753011634/?fref=nf){:target="_blank"}
+- [For Rent Vancouver](https://www.facebook.com/groups/203832913156085/){:target="_blank"}
+- [Vancouver - Apartments for rent, Apartments Houses Rooms](https://www.facebook.com/groups/I7984/){:target="_blank"}
+- [Vancouver - Rooms for rent, roommates & sublets](https://www.facebook.com/groups/rooms.for.rent.vancouver.roomi/){:target="_blank"}
 
 
-If you want to sign up to Airbnb, you can use my referral link that will give you [£34 towards your AirBNB Booking](https://www.airbnb.co.uk/c/ggantner?currency=GBP)
+If you want to sign up to Airbnb, you can use my referral link that will give you [£34 towards your AirBNB Booking](https://www.airbnb.co.uk/c/ggantner?currency=GBP){:target="_blank"}
 
 3.**Don’t get scammed, people in Vancouver are so nice that your good judgement can get foggy!**
 
@@ -62,11 +62,11 @@ Cheese in Canada is a. expensive and b. not so tasty for us Europeans, because t
 Moving to a different country all by myself was a challenge. However, one thing I was mostly concerned about was making new friends. What seemed like the biggest challenge at first, now feels like the least of my worries. In Vancouver, everyone is from somewhere but Vancouver! Compared to my first month in the UK, Vancouverians are up for hanging out, going for a hike, joining on an adventure! I’ve only been here one week, but I’ve already hiked up Mt Seymour with Women Who Explore Vancouver,and I'm going for a drink with someone who wants to know more about off-piste skiing. Here are some groups on Facebook and meet-ups you can join before arriving here that will help you meet new people instantly:  
 
 
-[Women Who Explore Vancouver](https://www.facebook.com/groups/wwevancouver/)
-[Vancouver Tennis Network](https://www.facebook.com/groups/113322218730725/)
-[Extremely Shy - Looking for Friends?](https://www.meetup.com/Extremely-Shy-Looking-for-friends/)
-[25 to 45 - Speed friending! No pressure way to make friends! Over 30 expected](https://www.meetup.com/funandunusualeventsinlondon/events/266045175/)
-[Hikes Near Vancouver](https://www.facebook.com/hikesnearvancouver/)
+- [Women Who Explore Vancouver](https://www.facebook.com/groups/wwevancouver/){:target="_blank"}
+- [Vancouver Tennis Network](https://www.facebook.com/groups/113322218730725/){:target="_blank"}
+- [Extremely Shy - Looking for Friends?](https://www.meetup.com/Extremely-Shy-Looking-for-friends/){:target="_blank"}
+- [25 to 45 - Speed friending! No pressure way to make friends! Over 30 expected](https://www.meetup.com/funandunusualeventsinlondon/events/266045175/){:target="_blank"}
+- [Hikes Near Vancouver](https://www.facebook.com/hikesnearvancouver/){:target="_blank"}
 
 
 Overall after just one week in Vancouver I give this city a "Better than expected" rating. Vancouver is a welcoming city that’s stunning scenery will make you say “Wow!” at every corner. I still need to pinch myself to check that it’s not a dream, but I’m sure there are a lot of things about living in Canada that I will need to experience on my own skin. 
