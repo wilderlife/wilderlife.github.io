@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Choosing a pre-paid mobile plan in Canada, British Columbia.
+tags: [Vancouver, Travel, Mobile Plans in Canada, Things I wish I knew]
 ---
 
 Choosing a mobile plan in Canada gave me a bit of a headache. All of them seem similar and well not so good compared to Europe. One thing I've learnt is to focus on data and not international minutes. For calling home use wifi or [Ring4](https://www.ring4.com){:target="_blank"} (You can find my Ring4 review here).
