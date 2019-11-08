@@ -14,7 +14,7 @@ bigimg:
   - "img/Margo_UK_cycling.jpeg" : "Cycling across England"
 ---
 
-- **Work:** With 5 years of experience in marketing, events and community, I've always been passionate about helping businesses grow by implementing innovative and proactive solutions and ideas. Check out my resume, connect with me on LinkedIn or take a look at my videos.
+- **Work:** With 5 years of experience in marketing, events and community, I've always been passionate about helping businesses grow by implementing innovative and proactive solutions and ideas. <a href="https://drive.google.com/file/d/1fkdy0EHJhC782dKWKkTW5i5EnED5cbZk/view?usp=sharing target=" target="_blank">Check out my resume</a>, [connect with me on LinkedIn](https://www.linkedin.com/in/mgantner/?locale=en_US) or take a look at [my videos]("https://www.margogantner.com/my-videos/"){:target="_blank"}.
 
 - **Education:** After graduating from high school in Poland with an International Baccalaureate Diploma, I continued my education in the UK. In 2014 I've graduated with a Bachelors of Science in Communications and Media from Loughborough University. 
 
