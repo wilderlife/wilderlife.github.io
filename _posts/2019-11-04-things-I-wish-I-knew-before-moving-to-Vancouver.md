@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 10 Things I wish I knew before moving to Vancouver.
-image: /img/hello_world.jpeg
-tags: [Vancouver, travel, 10 things, Things I wish I knew]
+image: img/10_Things_I_wish_I_knew_before_moving_to_canada.png
+tags: [Vancouver, Travel, 10 things, Things I wish I knew]
 ---
 I’ve landed in Vancouver exactly 1 week +1 day from today. I was welcomed with the most beautiful sunny weather, huge community that's always up for a hike, and expensive mobile plan prices. Here are 10 things I wish I knew before arriving in Vancouver.
 
@@ -12,7 +12,7 @@ There were two things I found out quite quickly about jub hunting in Vancouver:
 - not many employers will look at your CV unless you have a Canadian address and a phone number. 
 - It will take a while for anyone to respond to you, so better start your job hunt early. 
 
-If you want to apply before arriving in Canada you can try [Ring4](https://www.ring4.com). Ring 4 is a startup voted Product of the day (March 2017) at [Product Hunt](https://www.producthunt.com/posts/ring4). It allows you to generate a new Canadian number in seconds and receive calls overseas, with no roaming charges! Note that you will get charged when you want to call out, but usually, recruiters and employers will call you. It works on a credit-based system, so simply top up your account depending on how much you want to use it, starting from £1 per 10 credits. I used it for three weeks and it got me three interviews when I was still in London.
+If you want to apply before arriving in Canada you can try [Ring4](https://www.ring4.com){:target="_blank"}. Ring 4 is a startup voted Product of the day (March 2017) at [Product Hunt](https://www.producthunt.com/posts/ring4){:target="_blank"}. It allows you to generate a new Canadian number in seconds and receive calls overseas, with no roaming charges! Note that you will get charged when you want to call out, but usually, recruiters and employers will call you. It works on a credit-based system, so simply top up your account depending on how much you want to use it, starting from £1 per 10 credits. I used it for three weeks and it got me three interviews when I was still in London.
 
 2.**You can find cheap accommodation in Vancouver, you just need to look harder - there is no SpareRoom or RightMove in Vancouver.**
 
