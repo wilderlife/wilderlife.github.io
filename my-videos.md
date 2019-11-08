@@ -2,7 +2,7 @@
 layout: page
 subtitle: Margo Gantner Videos
 ---
-Today, video is one of the most powerful tools in marketing. According to <a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">Wyzowl's study</a> over 68% of today's consumers say a short video would be their preferred way to learn about new products or services.
+I believe that video is one of the most powerful ways to tell your story today. According to <a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">Wyzowl's study</a> over 68% of today's consumers say a short video would be their preferred way to learn about new products or services.
 
 Here are some videos I've filmed, scripted and edited myself over the past couple of years:
 
@@ -18,8 +18,11 @@ Here are some videos I've filmed, scripted and edited myself over the past coupl
 [![Meetup Mates Update 02 - What it's all about](https://i.ibb.co/dB9Rbhf/https-i-ytimg-com-vi-G-k-Kl2-Db9-Gg-maxresdefault.jpg)](https://www.youtube.com/watch?v=G-kKl2Db9Gg "Meetup Mates Update 02 - What it's all about"){:target="_blank"}
 
 [![Money marketing Interactive 2016](https://i.ibb.co/T0RjGWP/https-i-ytimg-com-vi-7-TTu-Orz5-FBg-maxresdefault.jpg)](https://youtu.be/7TTuOrz5FBg "Money marketing Interactive 2016"){:target="_blank"}
-
-<h4>Conference Promotional Videos using <a href="https://biteable.com" target="_blank">Biteable</a></h4>
+<br>
+<br>
+Conference Promotional Videos using <a href="https://biteable.com" target="_blank">Biteable</a>
+<br>
+<br>
 
 [![Microbiome Human Nutrition Conference Promo](https://i.ibb.co/fHtnbn6/https-i-ytimg-com-vi-3-Nt-MAwo-Tx-A-maxresdefault.jpg)](https://www.youtube.com/watch?v=_3NtMAwoTxA "Microbiome Human Nutrition Conference Promo"){:target="_blank"}
 
@@ -29,9 +32,12 @@ Here are some videos I've filmed, scripted and edited myself over the past coupl
 
 [![Market Access for Precision Medicine Conference](https://i.ibb.co/6FnSQ2K/https-i-ytimg-com-vi-VJDs-NUd-XQLc-maxresdefault.jpg)](https://www.youtube.com/watch?v=VJDsNUdXQLc "Market Access for Precision Medicine Conference"){:target="_blank"}
 
-<h4>Hello there Big Scroller!</h4>
+
+Hello there Big Scroller!
+
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/8CAFRDokyQkhi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitten-8CAFRDokyQkhi">via GIPHY</a></p>
 
-<h4>You scrolled till the end! Well done you! I hope you actually clicked on one of the videos 🕵️‍♀️ If you did and want to have a chat <a href="mailto:hello@margogantner.com">email me here</a>. If you didn't, scroll back up.</h4>
+
+You scrolled till the end! Well done you! I hope you actually clicked on one of the videos 🕵️‍♀️ If you did and want to have a chat <a href="mailto:hello@margogantner.com">email me here</a>. If you didn't, scroll back up.
 
