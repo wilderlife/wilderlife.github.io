@@ -1,10 +1,10 @@
 ---
 layout: page
-subtitle: My videos
+subtitle: Margo Gantner Videos
 ---
-<h4>Today, video is one of the most powerful tools in marketing. According to Wyzowl's study over two-thirds (68%) of today's consumers say a short video would be their preferred way to learn about new products or services (<a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">source</a>)</h4>
+Today, video is one of the most powerful tools in marketing. According to <a href="https://www.wyzowl.com/video-marketing-statistics-2019/" target="_blank">Wyzowl's study</a> over 68% of today's consumers say a short video would be their preferred way to learn about new products or services.
 
-<h4>Here are some videos I've filmed, scripted and edited myself over the past couple of years:</h4>
+Here are some videos I've filmed, scripted and edited myself over the past couple of years:
 
 
 [![DockerCon Barcelona 2018 - Highlights](https://i.ibb.co/kD6PCJL/https-i-ytimg-com-vi-ZSg-BCLf-Ml2k-maxresdefault.jpg)](https://www.youtube.com/watch?v=ZSgBCLfMl2k "DockerCon Barcelona 2018"){:target="_blank"}
