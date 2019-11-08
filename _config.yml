@@ -20,9 +20,11 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "blog"
+  Videos: "my-videos"
   Let's Chat: "aboutme"
-  Resources:
-   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  
+  
    
   #Author's home: "http://deanattali.com"
 
@@ -38,7 +40,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F76C6C"
+navbar-col: "#FFFFF"
 navbar-text-col: "#FFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFF"
@@ -93,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "margogantner.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "margogantner.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
