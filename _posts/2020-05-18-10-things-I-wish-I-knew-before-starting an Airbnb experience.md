@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 10 Things I wish I knew before startign an Airbnb experience
+title: 10 Things I wish I knew before starting an Airbnb experience
 image: img/10 Things I wish I knew before startign an Airbnb experience.png
 tags: [Vancouver, Airbnb, 10 things, Things I wish I knew, Airbnb experiences]
 ---
 
-Starting your own Airbnb experience seems easy. All it takes is an idea and skills. Some ideas might work better than others, depending on the audience - da! But when I first started my Airbnb experiences in London, it didn't work at all. I had no bookings, no views, no interest. Then I moved to Vancouver and started over. Boom! Airbnb bookings began to fly in like crazy. Why? 
+Starting your own [Airbnb experience](https://www.airbnb.ca/x/ggantner){:target="_blank"} seems easy. All it takes is an idea and skills. Some ideas might work better than others, depending on the audience - da! But when I first started my Airbnb experiences in London, it didn't work at all. I had no bookings, no views, no interest. Then I moved to Vancouver and started over. Boom! Airbnb bookings began to fly in like crazy. Why? 
 
 Here are ten things I've learnt from starting my first Airbnb experience:
 
 1. **Will your idea attract people? Validate first.** 
 
-Before starting my Airbnb experience for the second time, I began by looking at the Airbnb experiences in my area. For example in London, beer crawl tours or sightseeing bike trips were dominating. In Vancouver, hiking and multicultural cooking classes were the most popular. 
+Before starting an [Airbnb experience](https://www.airbnb.ca/x/ggantner){:target="_blank"} for the second time, I began by looking at the Airbnb experiences in my area. For example in London, beer crawl tours or sightseeing bike trips were dominating. In Vancouver, hiking and multicultural cooking classes were the most popular. 
 
 **Bonus:** I decided to ask the locals. And guess what? People in North America love dumplings - you can find them in every supermarket. Doing a little research gave me confidence that the pierogi making experience could fit the Vancouver audience. 
 
@@ -107,10 +107,9 @@ Less is more. Promising something you can't commit to delivering will only leave
 **Bonus:** I always message my guests a week before. Ask them why did they decide to book the experience. Then, I try to add a personal touch based on their answer. Be it a bottle of wine because it's their birthday, a special pre-meal snack, or a bouquet. Their pleasant surprise is an excellent first impression that will last. 
 
 
-Overall, starting the Airbnb experience has been a fantastic adventure. It will take away all the stress if you treat it as a fun side-hobby rather than a full-time source of income. I've only opened up 2 Saturday's a month, so it doesn't feel like a strain - and guess what? People started to message me, asking if I can open slots for them. 
-
+Overall, starting the [Airbnb experience](https://www.airbnb.ca/x/ggantner){:target="_blank"} has been a fantastic adventure. It will take away all the stress if you treat it as a fun side-hobby rather than a full-time source of income. I've only opened up 2 Saturday's a month, so it doesn't feel like a strain - and guess what? People started to message me, asking if I can open slots for them. 
 
 Thanks for reading! See you space cowboy...
 
 
-P.S. In this post you will find a couple of referral links that offer a sign up bonus. You are free to use them or not. It’s up to you! Sharing is caring. And you would reward me for writing this post for free. 
+P.S. In this post you will find a couple of referral links that offer a sign up bonus. You are free to use them or not. It’s up to you! Sharing is caring.
